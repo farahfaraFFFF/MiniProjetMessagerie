@@ -1,0 +1,23 @@
+
+# Fichiers générés par Maven
+target/
+
+# Fichiers Eclipse
+.classpath
+.project
+.settings/
+
+# Fichiers IntelliJ
+.idea/
+*.iml
+
+# Fichiers compilés
+*.class
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Secrets et clés API
+.env
+.env.*
